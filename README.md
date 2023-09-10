@@ -8,7 +8,7 @@ TaskBreaker is a task management application designed with a focus on helping in
 ADHD, or Attention Deficit Hyperactivity Disorder, is a neurodevelopmental disorder that can affect an individual's ability to pay attention, control impulses, and stay organized. People with ADHD often struggle with task management, time management, and maintaining focus on tasks, both big and small.
 
 ## Why TaskBreaker is Helpful
-TaskBreaker is designed with the specific challenges of ADHD in mind. It offers a user-friendly platform to break down tasks into smaller, more manageable steps. Here's why TaskBreaker is helpful:
+TaskBreaker is designed with the specific challenges of ADHD in mind. It offers a user-friendly platform to break down tasks into smaller, more manageable steps, which feels less overwhelming. Here's why TaskBreaker is helpful:
 
 - **Simplicity**: It simplifies complex tasks, making them less overwhelming.
 - **Focus**: It helps users maintain focus on individual steps.
